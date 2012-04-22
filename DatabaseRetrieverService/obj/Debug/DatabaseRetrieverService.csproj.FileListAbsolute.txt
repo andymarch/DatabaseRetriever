@@ -1,0 +1,7 @@
+D:\Development\DatabaseRetriever\DatabaseRetrieverService\bin\Debug\DatabaseRetrieverService.exe
+D:\Development\DatabaseRetriever\DatabaseRetrieverService\bin\Debug\DatabaseRetrieverService.pdb
+D:\Development\DatabaseRetriever\DatabaseRetrieverService\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\DatabaseRetriever\DatabaseRetrieverService\obj\Debug\DatabaseRetrieverService.exe
+D:\Development\DatabaseRetriever\DatabaseRetrieverService\obj\Debug\DatabaseRetrieverService.pdb
+D:\Development\DatabaseRetriever\DatabaseRetrieverService\obj\Debug\DatabaseRetrieverService.ProjectInstaller.resources
+D:\Development\DatabaseRetriever\DatabaseRetrieverService\obj\Debug\DatabaseRetrieverService.csproj.GenerateResource.Cache
